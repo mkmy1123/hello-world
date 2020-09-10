@@ -1,3 +1,3 @@
 # GitHubの課題提出
-Git-itで使用したリポジトリにて課題を追加しました。  
-
+[Git-it](https://github.com/jlord/git-it-electron) で使用したリポジトリにて  
+fjordbootcampのGitHub課題を追加し、提出しました。  
